@@ -34,6 +34,13 @@ Documentation is available at https://kiro.dev/docs/powers/
 
 ---
 
+### cloudwatch
+**AWS CloudWatch Observability** - Query and analyze metrics, logs and alarms from AWS CloudWatch for troubleshooting and root cause analysis.
+
+**MCP Servers:** awslabs.cloudwatch-mcp-server
+
+---
+
 ### datadog
 **Datadog Observability** - Query logs, metrics, traces, RUM events, incidents, and monitors from Datadog for production debugging and performance analysis.
 
