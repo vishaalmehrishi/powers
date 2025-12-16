@@ -7,7 +7,7 @@ Documentation is available at https://kiro.dev/docs/powers/
 ## Available powers
 
 ### aurora-dsql
-**Deploy a distributed SQL database on AWS** - PostgreSQL-compatible serverless distributed SQL database with Aurora DSQL - manage schemas, execute queries, and handle migrations with DSQL-specific constraints.
+**Build a database with Aurora DSQL** - Build and deploy a PostgreSQL-compatible serverless distributed SQL database with Aurora DSQL - manage schemas, execute queries, and handle migrations with DSQL-specific constraints.
 
 **MCP Servers:** aurora-dsql, aws-core (optional)
 
@@ -38,6 +38,13 @@ Documentation is available at https://kiro.dev/docs/powers/
 **AWS Application Signals** - Monitor service health, analyze SLO compliance, and perform root cause analysis with distributed tracing and audit capabilities.
 
 **MCP Servers:** awslabs.cloudwatch-applicationsignals-mcp-server
+
+---
+
+### cloudwatch
+**AWS CloudWatch Observability** - Query and analyze metrics, logs and alarms from AWS CloudWatch for troubleshooting and root cause analysis.
+
+**MCP Servers:** awslabs.cloudwatch-mcp-server
 
 ---
 
