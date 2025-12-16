@@ -34,6 +34,13 @@ Documentation is available at https://kiro.dev/docs/powers/
 
 ---
 
+### cloudwatch-application-signals
+**AWS Application Signals** - Monitor service health, analyze SLO compliance, and perform root cause analysis with distributed tracing and audit capabilities.
+
+**MCP Servers:** awslabs.cloudwatch-applicationsignals-mcp-server
+
+---
+
 ### datadog
 **Datadog Observability** - Query logs, metrics, traces, RUM events, incidents, and monitors from Datadog for production debugging and performance analysis.
 
