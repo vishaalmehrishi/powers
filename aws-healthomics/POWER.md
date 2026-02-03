@@ -1,7 +1,7 @@
 ---
 name: "aws-healthomics"
 displayName: "AWS HealthOmics"
-description: "Create, migrate, run, debug and optimize bioinformatics workflows in AWS HealthOmics"
+description: "Create, migrate, run, debug and optimize genomics workflows in AWS HealthOmics"
 keywords: ["healthomics", "WDL", "CWL", "Nextflow", "workflow", "genomics", "bioinformatics", "pipeline"]
 author: "AWS"
 ---
@@ -17,6 +17,7 @@ Whenever you are asked to perform a task related to any of the following scenari
 - Creating a new WDL, Nextflow or CWL workflow -> use `./steering_files/workflow-development.md`
 - Onboarding an existing WDL workflow ensuring compatibility with HealthOmics -> use `.\steering_files/migration-guide-for-wdl.md`
 - Onboarding an existing Nextflow workflow ensuring compatibility with HealthOmics -> use `./steering_files/migration-guide-for-wdl.md`
+- Modifying, updating, or fixing an existing HealthOmics workflow -> use `./steering_files/workflow-versioning.md`
 - Diagnosing workflow creation issues -> use `./steering_files/troubleshooting.md`
 - Diagnosing run failures -> use `./steering_files/troubleshooting.md`
 - Using public containers with HealthOmics via ECR Pullthrough Caches -> use `./steering_files/ecr-pull-through-cache.md`
